@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Project 3 - *Twitter Client*
 
 **Name of your app** is a basic twitter app to read your tweets.
@@ -30,7 +29,6 @@ Here's a walkthrough of implemented user stories:
 ### Logout and Login Walkthrough and Logged in Across Restarts
 <img src='https://media.giphy.com/media/mv3YvQ4v67YOLzOZH2/giphy.gif' width='' alt='Video Walkthrough' />
 
-=======
 # Twitter-Client
 This application is a twitter client that I designed to allow users to view tweets on their iphone. The twitter client will save login information and possesses for scrolling through tweets and refreshing twitter feeds. 
->>>>>>> main
+
