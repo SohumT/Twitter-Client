@@ -25,7 +25,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 ### General Walkthrough
-<img src='https://imgflip.com/gif/647uvp' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://app.animaker.com/animo/NGVLvD8geegPnePf/' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### Logout and Login Walkthrough and Logged in Across Restarts
 <img src='https://imgflip.com/gif/647vb6' title='Video Walkthrough' width='' alt='Video Walkthrough' />
