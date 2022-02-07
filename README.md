@@ -23,10 +23,10 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-### General Walkthrough
+### Logout and Login Walkthrough and Logged in Across Restarts
 <img src='https://media.giphy.com/media/J5xzgCzhjgkbYCDZix/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-### Logout and Login Walkthrough and Logged in Across Restarts
+### General Walkthrough 
 <img src='https://media.giphy.com/media/mv3YvQ4v67YOLzOZH2/giphy.gif' width='' alt='Video Walkthrough' />
 
 # Twitter-Client
